@@ -1,0 +1,1 @@
+In this the cursor will be followed by a circle whereever it goes.
